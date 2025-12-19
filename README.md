@@ -1237,13 +1237,8 @@ All notable changes to this project will be documented in this file.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Support
-
-- **Documentation**: [https://authlib.github.io/rbac-authorization](https://authlib.github.io/rbac-authorization)
-- **Issues**: [GitHub Issues](https://github.com/authlib/rbac-authorization/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/authlib/rbac-authorization/discussions)
-- **Security**: security@authlib.dev
 
 ---
+
 
 **AuthLib RBAC Authorization Library** - Secure, scalable, and compliant authorization for modern PHP applications.
